@@ -1,59 +1,23 @@
 # Backend Developer | .NET Enthusiast | Server-Side by Heart
 
-I’m Heyther (aka *amapola*), a backend developer passionate about building solid, scalable systems. I enjoy crafting APIs, designing service architectures, and making sure everything runs smoothly behind the scenes. I work conﬁdently with modern frameworks and tools to deliver clean, maintainable, and efficient solutions.
+Hey! I'm **Heyther** (aka *amapola*), a backend developer who loves building solid, scalable systems. I focus on API design, clean architecture, and server-side performance.
 
-### ⚙️ Core Technologies
+🔧 **Core Stack**  
+**Frameworks:** ASP.NET Core · Express.js · Spring Boot  
+**Languages:** C# · Java · JavaScript / TypeScript · PHP · Lua  
+**APIs:** REST · GraphQL · gRPC · MCP  
+**Messaging:** MQTT · RabbitMQ · Kafka  
+**Databases:** SQL Server · PostgreSQL · MySQL · MongoDB · Redis  
+**Containers:** Docker · Podman · Kubernetes  
 
-- **Frameworks / Runtimes**:
-  - ASP.NET Core (C#)
-  - Express.js (Node.js)
-  - Spring Boot (Java)
+🧰 **Tools & Editors**  
+Neovim · JetBrains IDEs · Visual Studio · VS Code · Git · Postman / Insomnia
 
-- **Languages**:
-  - C#
-  - Java
-  - JavaScript / TypeScript
-  - PHP
-  - Lua
+🎮 **Other Dev Areas**  
+Occasional desktop & frontend dev · Game dev with Godot / Unity
 
-- **API Styles**:
-  - RESTful APIs
-  - GraphQL
-  - gRPC
-  - MCP
+🎧 **About Me**  
+Outside code, I’m into music and painting. Always exploring new backend patterns, tools, and architectures.
 
-- **Message Brokers / Streaming**:
-  - MQTT
-  - MQP (RabbitMQ, Kafka)
+Let’s connect if you're into backend work or server-side tech!
 
-- **Databases**:
-  - SQL Server
-  - PostgreSQL
-  - MySQL
-  - MongoDB
-  - Redis
-
-- **Containers & Orchestration**:
-  - Docker
-  - Podman
-  - Kubernetes
-
-### 🧰 Tools & Editors
-
-- Neovim
-- JetBrains IDEs
-- Visual Studio
-- VS Code
-- Git & GitHub
-- Postman / Insomnia
-
-## 🔧 Other Development Areas
-
-- Desktop & frontend applications (vanilla + some frameworks)  
-- Game development (Godot & Unity)
-
-## 🎯 About Me
-
-Outside of development, I enjoy music and painting. I'm always exploring new backend patterns, tools, and architectures.
-
-If you're working on a backend-focused project or just want to talk tech — feel free to reach out
