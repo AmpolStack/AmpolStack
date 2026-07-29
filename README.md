@@ -1,9 +1,9 @@
 <div align="center">
 
 
-# Heyther
+# ***Heyther***
 
-**Backend Developer · .NET Enthusiast · Server-Side by Heart**
+**Software Architect · Systems Thinker · Builder Across the Stack**
 
 *aka amapola*
 
@@ -11,46 +11,42 @@
 
 ---
 
-With years of hands-on experience across multiple stacks, I've built a career around one idea: backend systems should be solid, scalable, and built to last. Somewhere along the way, API design and clean architecture stopped being "best practices" and became just... how I think.
+I've spent years building things, and honestly, I've never wanted to specialize in just one corner of it. Every project seemed to need something different, and I kept meeting it head-on — backend mostly, but that word ends up covering a lot more ground than it sounds like it should.
+
+Somewhere along the way, I stopped thinking of myself as "a .NET developer" or "a Java developer" and started thinking of myself as someone who genuinely enjoys figuring things out: APIs, architecture, messaging, data, infrastructure, and now AI systems too. Not because I'm collecting technologies for the sake of it, but because I care about actually understanding the things I build.
 
 ---
 
-## Core Stack
+## Ground I've covered
 
-| | |
-|---|---|
-| **Frameworks** | ASP.NET Core, Express.js, Spring Boot |
-| **Languages** | C#, Java, JavaScript / TypeScript, PHP, Lua |
-| **APIs** | REST, GraphQL, gRPC, MCP |
-| **Messaging** | MQTT, RabbitMQ, Kafka |
-| **Databases** | SQL Server, PostgreSQL, MySQL, MongoDB, Redis |
-| **Containers** | Docker, Podman, Kubernetes |
+**Frameworks:** ASP.NET Core, Express.js, Spring Boot
+
+**Languages:** C#, Java, JavaScript / TypeScript, PHP, Lua
+
+**APIs:** REST, GraphQL, gRPC, MCP
+
+**Messaging:** MQTT, RabbitMQ, Kafka
+
+**Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, Redis
+
+**Containers:** Docker, Podman, Kubernetes
+
+None of this happened overnight, and I'm proud of that. Each one of these represents real time spent getting something to actually work.
 
 ---
 
-## AI & LLM Engineering
+## Staying at the edge
 
-Lately, I've been bringing that same backend discipline into AI-powered systems — RAG pipelines, MCP servers, and agentic workflows built with the same care I'd put into any production API.
+I've been putting real effort into RAG pipelines, MCP servers, and agentic workflows lately — not to chase a trend, but because I want to understand these systems as deeply as I understand everything else I build.
 
 `RAG` · `MCP` · `Vector Databases` · `Embeddings` · `LangChain` · `Agentic Workflows`
 
 ---
 
-## Tools & Editors
+## Outside the terminal
 
-Neovim · JetBrains IDEs · Visual Studio · VS Code · Git · Postman / Insomnia
-
----
-
-## Beyond Backend
-
-Game dev with Godot / Unity, occasional frontend work, and a soft spot for music and painting — the kind of curiosity that keeps a decade-plus career from ever getting stale.
+I build worlds in Godot / Unity when I want a change of pace from building services. And when I don't feel like building anything at all, there's music and painting.
 
 ---
 
-<div align="center">
-
-
-Let's connect if you're into backend work, server-side tech, or applied AI.
-
-</div>
+If any of this resonates with you, I'd genuinely love to talk.
