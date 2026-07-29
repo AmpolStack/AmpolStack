@@ -1,23 +1,56 @@
-# Backend Developer | .NET Enthusiast | Server-Side by Heart
+<div align="center">
 
-Hey! I'm **Heyther** (aka *amapola*), a backend developer who loves building solid, scalable systems. I focus on API design, clean architecture, and server-side performance.
 
-🔧 **Core Stack**  
-**Frameworks:** ASP.NET Core · Express.js · Spring Boot  
-**Languages:** C# · Java · JavaScript / TypeScript · PHP · Lua  
-**APIs:** REST · GraphQL · gRPC · MCP  
-**Messaging:** MQTT · RabbitMQ · Kafka  
-**Databases:** SQL Server · PostgreSQL · MySQL · MongoDB · Redis  
-**Containers:** Docker · Podman · Kubernetes  
+# Heyther
 
-🧰 **Tools & Editors**  
+**Backend Developer · .NET Enthusiast · Server-Side by Heart**
+
+*aka amapola*
+
+</div>
+
+---
+
+With years of hands-on experience across multiple stacks, I've built a career around one idea: backend systems should be solid, scalable, and built to last. Somewhere along the way, API design and clean architecture stopped being "best practices" and became just... how I think.
+
+---
+
+## Core Stack
+
+| | |
+|---|---|
+| **Frameworks** | ASP.NET Core, Express.js, Spring Boot |
+| **Languages** | C#, Java, JavaScript / TypeScript, PHP, Lua |
+| **APIs** | REST, GraphQL, gRPC, MCP |
+| **Messaging** | MQTT, RabbitMQ, Kafka |
+| **Databases** | SQL Server, PostgreSQL, MySQL, MongoDB, Redis |
+| **Containers** | Docker, Podman, Kubernetes |
+
+---
+
+## AI & LLM Engineering
+
+Lately, I've been bringing that same backend discipline into AI-powered systems — RAG pipelines, MCP servers, and agentic workflows built with the same care I'd put into any production API.
+
+`RAG` · `MCP` · `Vector Databases` · `Embeddings` · `LangChain` · `Agentic Workflows`
+
+---
+
+## Tools & Editors
+
 Neovim · JetBrains IDEs · Visual Studio · VS Code · Git · Postman / Insomnia
 
-🎮 **Other Dev Areas**  
-Occasional desktop & frontend dev · Game dev with Godot / Unity
+---
 
-🎧 **About Me**  
-Outside code, I’m into music and painting. Always exploring new backend patterns, tools, and architectures.
+## Beyond Backend
 
-Let’s connect if you're into backend work or server-side tech!
+Game dev with Godot / Unity, occasional frontend work, and a soft spot for music and painting — the kind of curiosity that keeps a decade-plus career from ever getting stale.
 
+---
+
+<div align="center">
+
+
+Let's connect if you're into backend work, server-side tech, or applied AI.
+
+</div>
