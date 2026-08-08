@@ -32,21 +32,3 @@ Somewhere along the way, I stopped thinking of myself as "a .NET developer" or "
 **Containers:** Docker, Podman, Kubernetes
 
 None of this happened overnight, and I'm proud of that. Each one of these represents real time spent getting something to actually work.
-
----
-
-## Staying at the edge
-
-I've been putting real effort into RAG pipelines, MCP servers, and agentic workflows lately — not to chase a trend, but because I want to understand these systems as deeply as I understand everything else I build.
-
-`RAG` · `MCP` · `Vector Databases` · `Embeddings` · `LangChain` · `Agentic Workflows`
-
----
-
-## Outside the terminal
-
-I build worlds in Godot / Unity when I want a change of pace from building services. And when I don't feel like building anything at all, there's music and painting.
-
----
-
-If any of this resonates with you, I'd genuinely love to talk.
